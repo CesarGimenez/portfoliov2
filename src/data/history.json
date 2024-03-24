@@ -1,0 +1,26 @@
+[
+    {
+      "role": "Software Engineer",
+      "organisation": "Asistensi",
+      "country": "Venezuela, Mexico, Dominicana",
+      "startDate": "April, 2022",
+      "endDate": "Present",
+      "experiences": [
+        "Finding and resolving bugs in the legacy application.", 
+        "Propose and implement refactoring for a more efficient and easy to read code.", 
+        "Helped create new functionalities and modules for the multiples applications.",
+        "Creation of a support portal for automation of manual tasks."
+    ],
+      "imageSrc": "history/asistensiLogo.png"
+    },
+    {
+      "role": "Developer",
+      "organisation": "Mom-House",
+      "country": "Argentina",
+      "startDate": "March, 2021",
+      "endDate": "January, 2022",
+      "experiences": ["Worked on the control panel.", "Designed and developed the websites with WordPress.", "Design some SPA with React."],
+      "imageSrc": "history/momHouseLogo.png"
+    }
+  ]
+  

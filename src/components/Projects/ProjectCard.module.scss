@@ -1,0 +1,79 @@
+@import "../../variables";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0)); 
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  border-radius: 20x;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  padding: 18px 24px;
+  max-width: 400px;
+  height: 620px;
+  backdrop-filter: blur(10px);
+
+  &:hover {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+    transition: 0.3s ease-in-out;
+  }
+}
+
+.image {
+  margin-bottom: 15px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.title {
+  margin-bottom: 10px;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.description {
+  margin-top: 6px;
+  font-size: 25px;
+  font-weight: 400;
+}
+
+.skills {
+  width: 100%;
+  margin-top: 14px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  position: absolute;
+  list-style: none;
+  left: 0;
+  right: 0;
+  bottom: 15px;
+}
+
+.skill {
+  font-size: 25px;
+  font-weight: 400;
+  border-radius: 100px;
+  background: $color-dark;
+  padding: 2px 22px;
+}
+
+.links {
+  width: 100%;
+  margin-top: 26px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  text-decoration: none;
+  color: $color-text;
+  font-size: 30px;
+  font-weight: 600;
+  border-radius: 100px;
+  background: var(--color-primary);
+  padding: 1px 22px;
+}

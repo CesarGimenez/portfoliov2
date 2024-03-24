@@ -1,0 +1,45 @@
+[
+    {
+      "title": "PolarApp",
+      "imageSrc": "projects/polarapp.png",
+      "description": "This project was developed to be a sales system taking as main user a Polar products salesman, for Polar Enterprises in Venezuela.",
+      "skills": ["Angular", "Express", "Node", "MongoDB"]
+    },
+    {
+      "title": "MovieFlix",
+      "imageSrc": "projects/movieflix.png",
+      "description": "This project was developed to be a site where you could rate and leave comments on recent movies.",
+      "skills": ["React", "RoR", "PostgreSQL"]
+    },
+    {
+      "title": "PhotoPost",
+      "imageSrc": "projects/photopost.png",
+      "description": "This project is similar to a blog where you can upload images, give and receive likes and comments on your posts or other users.",
+      "skills": ["React", "Express", "Node"]
+    },
+    {
+      "title": "GlowingShop",
+      "imageSrc": "projects/glowing.png",
+      "description": "This is an online store e-commerce whose services include makeup products.",
+      "skills": ["React", "Vite", "Express", "Node"]
+    },
+    {
+      "title": "Iventory Dashboard",
+      "imageSrc": "projects/dieseldbp.png",
+      "description": "This project is an administrative dashboard to better manage sales and profit data for a diesel parts store.",
+      "skills": ["React", "Nest", "MongoDB"]
+    },
+    {
+      "title": "ICard",
+      "imageSrc": "projects/icard.png",
+      "description": "This project is a digital menu for restaurants, where the customer can order his orders, and the admin user can see in real time the orders ordered by each table.",
+      "skills": ["React", "Django", "PostgreSQL"]
+    },
+    {
+      "title": "MedicPass",
+      "imageSrc": "projects/medicpass.png",
+      "description": "This project is a system for the control of medical consultations and diagnoses, you can also consult available medicines in nearby pharmacies according to your location, there are the roles of patient, doctor, pharmacist and admin.",
+      "skills": ["React", "Nest", "MongoDB", "React Native"]
+    }
+  ]
+  
